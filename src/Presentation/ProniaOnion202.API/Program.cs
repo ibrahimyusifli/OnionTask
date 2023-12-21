@@ -1,9 +1,12 @@
 namespace ProniaOnion202.API
 {
+    using ProniaOnion202.Application.ServiceRegistration;
+    using ProniaOnion202.Persistence.ServiceRegistiration;
     public class Program
     {
         public static void Main(string[] args)
         {
+            
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -12,6 +15,8 @@ namespace ProniaOnion202.API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddApplicationServices();
+            builder.Services.AddPersistenceServices(builder.Configuration);
 
             var app = builder.Build();
 

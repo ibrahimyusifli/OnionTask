@@ -1,14 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProniaOnion202.Domain.Entities;
+using ProniaOnion202.Persistence.Configurations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ProniaOnion202.Persistence.Contexts
 {
-    internal class AppDbContext:DbContext
+    public class AppDbContext:DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options):base(options) 
         {
@@ -22,14 +24,8 @@ namespace ProniaOnion202.Persistence.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Category>().Property(c => c.Name).IsRequired().HasMaxLength(50);
-
-            modelBuilder.Entity<Product>().Property(p => p.Name).IsRequired().HasMaxLength(100);
-            modelBuilder.Entity<Product>().Property(p => p.Price).IsRequired().HasColumnType("decimal(6,2)");
-            modelBuilder.Entity<Product>().Property(p => p.Description).IsRequired(false).HasColumnType("text");
-            modelBuilder.Entity<Product>().Property(p => p.SKU).IsRequired().HasMaxLength(100);
-
-
+            //modelBuilder.ApplyConfiguration(new ProductConfigurations());
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
         }
     }

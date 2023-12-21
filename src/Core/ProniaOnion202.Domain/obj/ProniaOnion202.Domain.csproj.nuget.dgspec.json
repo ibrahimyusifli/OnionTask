@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {}
+    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
+    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
         "projectName": "ProniaOnion202.Domain",
-        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
+        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
         "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\TaskAb202ibrahim\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

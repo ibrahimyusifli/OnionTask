@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProniaOnion202.Domain.Entities
 {
-    internal class Category:BaseNameableEntity
+    public class Category:BaseNameableEntity
     {
         //Relational Properties
         public ICollection<Product>? Products { get; set; }
