@@ -1,6 +1,10 @@
 namespace ProniaOnion202.API
 {
+    using FluentValidation;
+    using FluentValidation.AspNetCore;
+    using ProniaOnion202.Application.DTOs.Categories;
     using ProniaOnion202.Application.ServiceRegistration;
+    using ProniaOnion202.Application.Validators;
     using ProniaOnion202.Persistence.ServiceRegistiration;
     public class Program
     {
@@ -12,6 +16,7 @@ namespace ProniaOnion202.API
             // Add services to the container.
 
             builder.Services.AddControllers();
+    
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

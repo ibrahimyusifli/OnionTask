@@ -16,7 +16,6 @@ namespace ProniaOnion202.Domain.Entities
         public BaseEntity()
         {
             CreatedBy = "ibrahim.yusifli";
-            CreatedAt = DateTime.Now;
         }
     }
 }

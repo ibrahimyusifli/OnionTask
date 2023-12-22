@@ -12,5 +12,7 @@ namespace ProniaOnion202.Application.Abstractions.Services
         Task<ICollection<CategoryItemDto>> GetAllAsync(int page, int take);
         //Task<GetCategoryDto> GetAsync(int id);
         Task Create(CategoryCreateDto dto);
+        Task SoftDelete(int id);
+        Task SoftDeleteAsync(int id);
     }
 }

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "R7DxoOTJxUJ7aQwrMZIXYK/G4OJA2UBGIM/qWzoP31AItY5FacG30hhL/9PQn8iZOU1X3InwWKpbduXfK6A2aw==",
+  "dgSpecHash": "zrHVbgob9+DGpVoTg07aUyITmjlBHEFRAltTqZ/XhMT0zQVWd21It5asj/wXzFTqmUzFR4N5gliPTU4Dz8kSow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.25\\microsoft.entityframeworkcore.6.0.25.nupkg.sha512",

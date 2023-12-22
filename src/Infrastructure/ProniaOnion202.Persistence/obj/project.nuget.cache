@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "b6UM1Zn91OLKGfsBBa13b82Yau7fHW2zvRtZqHrdJ4GYayD46MNFY5xpF4CChjSidDQy8hkIJrmZ0QAOvnUtUg==",
+  "dgSpecHash": "zG5np6hXwMreZrt8Zd2wL+XRl0vrUYCn3xx9rSl9g9VvdvnfrqegGXD3FyczJCNTUarOSp7kb5YBQ5UqiWczfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Sheki Komp\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
