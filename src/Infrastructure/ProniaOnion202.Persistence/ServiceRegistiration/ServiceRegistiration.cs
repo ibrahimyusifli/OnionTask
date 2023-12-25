@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿    using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ProniaOnion202.Application.Abstractions.Repositories;
@@ -19,6 +19,11 @@ namespace ProniaOnion202.Persistence.ServiceRegistiration
                 b=>b.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName)));
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<IProductService, ProductService>();
+
+
+
             return services;
         }
     }
