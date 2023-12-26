@@ -53,6 +53,10 @@ namespace ProniaOnion202.Persistence.Implementations.Repositories
 
             return isTracking ? query : query.AsNoTracking();
         }
+        public async Task<bool> IsExistAsync(Expression<Func<T,bool>> expression)
+        {
+           return  await _table.AnyAsync(expression);
+        }
         public async Task<T> GetByIdAsync(int id, bool isTracking = false,  bool ignoreQuery = false, params string[] includes)
         {
             IQueryable<T> query = _table.Where(x => x.Id == id);
