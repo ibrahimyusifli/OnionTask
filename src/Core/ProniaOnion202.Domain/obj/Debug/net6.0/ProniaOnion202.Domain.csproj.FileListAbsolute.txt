@@ -12,3 +12,4 @@ C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Dom
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.pdb
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.genruntimeconfig.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ref\ProniaOnion202.Domain.dll
+C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.csproj.AssemblyReference.cache
