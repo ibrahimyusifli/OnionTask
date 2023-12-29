@@ -1,5 +1,5 @@
 ﻿using ProniaOnion202.Application.DTOs.Tokens;
-using ProniaOnion202.Application.DTOs.Users;
+using ProniaOnion202.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +8,8 @@ using System.Threading.Tasks;
 
 namespace ProniaOnion202.Application.Abstractions.Services
 {
-    internal interface IAuthenticationService
+    public interface ITokenHandler
     {
-        Task Register(RegisterDto dto);
-        Task<TokenResponseDto> Login(LoginDto dto);
-
-
+        TokenResponseDto CreateToken(AppUser user,int minutes);
     }
 }

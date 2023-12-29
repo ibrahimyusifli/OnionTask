@@ -22,6 +22,7 @@ namespace ProniaOnion202.API
             builder.Services.AddSwaggerGen();
             builder.Services.AddApplicationServices();
             builder.Services.AddPersistenceServices(builder.Configuration);
+            builder.Services.AddInfrastructureServices();
 
             var app = builder.Build();
 
@@ -33,6 +34,7 @@ namespace ProniaOnion202.API
             }
 
             app.UseHttpsRedirection();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

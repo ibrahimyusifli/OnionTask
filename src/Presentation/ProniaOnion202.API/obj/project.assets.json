@@ -1050,6 +1050,16 @@
           "bin/placeholder/ProniaOnion202.Domain.dll": {}
         }
       },
+      "ProniaOnion202.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ProniaOnion202.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProniaOnion202.Infrastructure.dll": {}
+        }
+      },
       "ProniaOnion202.Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2791,6 +2801,11 @@
       "path": "../../Core/ProniaOnion202.Domain/ProniaOnion202.Domain.csproj",
       "msbuildProject": "../../Core/ProniaOnion202.Domain/ProniaOnion202.Domain.csproj"
     },
+    "ProniaOnion202.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/ProniaOnion202.Infrastructure/ProniaOnion202.Infrastructure.csproj",
+      "msbuildProject": "../../Infrastructure/ProniaOnion202.Infrastructure/ProniaOnion202.Infrastructure.csproj"
+    },
     "ProniaOnion202.Persistence/1.0.0": {
       "type": "project",
       "path": "../../Infrastructure/ProniaOnion202.Persistence/ProniaOnion202.Persistence.csproj",
@@ -2800,6 +2815,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.25",
+      "ProniaOnion202.Application >= 1.0.0",
+      "ProniaOnion202.Infrastructure >= 1.0.0",
       "ProniaOnion202.Persistence >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -2832,6 +2849,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
+              "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj"
+            },
+            "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj"
+            },
             "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {
               "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj"
             }

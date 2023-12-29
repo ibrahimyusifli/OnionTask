@@ -160,6 +160,70 @@
         }
       }
     },
+    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+        "projectName": "ProniaOnion202.Infrastructure",
+        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -267,6 +331,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
+                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj"
+              },
+              "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj"
+              },
               "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {
                 "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj"
               }
