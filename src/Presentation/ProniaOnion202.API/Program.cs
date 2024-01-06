@@ -5,6 +5,7 @@ namespace ProniaOnion202.API
     using ProniaOnion202.Application.DTOs.Categories;
     using ProniaOnion202.Application.ServiceRegistration;
     using ProniaOnion202.Application.Validators;
+    using ProniaOnion202.Persistence.Contexts;
     using ProniaOnion202.Persistence.ServiceRegistiration;
     public class Program
     {
@@ -22,7 +23,7 @@ namespace ProniaOnion202.API
             builder.Services.AddSwaggerGen();
             builder.Services.AddApplicationServices();
             builder.Services.AddPersistenceServices(builder.Configuration);
-            builder.Services.AddInfrastructureServices();
+            builder.Services.AddInfrastructureServices(builder.Configuration);
 
             var app = builder.Build();
 
@@ -32,6 +33,14 @@ namespace ProniaOnion202.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            using (var scope = app.Services.CreateScope())
+            {
+            var initializer = scope.ServiceProvider.GetRequiredService<AppDbContextInitializer>();
+            initializer.InitializeDbContext();
+            initializer.CreateRoleAsync().Wait();
+            initializer.InitializeAdmin().Wait();
+            }
+               
 
             app.UseHttpsRedirection();
             app.UseAuthentication();

@@ -1119,11 +1119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
       "projectName": "ProniaOnion202.Infrastructure",
-      "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",

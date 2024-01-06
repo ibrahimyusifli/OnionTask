@@ -5,3 +5,10 @@ C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Presentation\ProniaOnio
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.csproj.CoreCompileInputs.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.sourcelink.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.csproj.AssemblyReference.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.AssemblyInfoInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.AssemblyInfo.cs
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.csproj.CoreCompileInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Presentation\ProniaOnion202.API\obj\Debug\net6.0\ProniaOnion202.API.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4C9EVVChdmnQgFa0HHnJzs+QSFqa/wtyKz+P06YQB2Jj2dwZ84k22hBOBaYulDS1VwyV5HPDKCAM+tx4qj8QpA==",
+  "dgSpecHash": "is1JUhEZ1A9zurDkQmlYUVUKAmhb4tE5FvAh62+c+HnyvP75TTz98sKT1zEJvXrCS4J7ZOx5FimAdILX/zUCvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",

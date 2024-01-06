@@ -29,5 +29,12 @@ namespace ProniaOnion202.API.Controllers
             return StatusCode(StatusCodes.Status200OK, await _service.Login(dto));
            
         }
+        [HttpPost("[Action]")]
+        public async Task<IActionResult> LoginByRefresh(string refToken)
+        {
+
+            return Ok(await _service.LoginByRefreshToken(refToken));
+
+        }
     }
 }

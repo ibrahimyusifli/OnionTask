@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {}
+    "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
+    "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj",
         "projectName": "ProniaOnion202.Application",
-        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj",
+        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj",
         "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\obj\\",
+        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
-                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj"
+              "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
+    "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
         "projectName": "ProniaOnion202.Domain",
-        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
+        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\ProniaOnion202.Domain.csproj",
         "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {
+    "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
         "projectName": "ProniaOnion202.Persistence",
-        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
+        "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
         "packagesPath": "C:\\Users\\Sheki Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,8 +185,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
-                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj"
+              "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj": {
+                "projectPath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Core\\ProniaOnion202.Application\\ProniaOnion202.Application.csproj"
               }
             }
           }

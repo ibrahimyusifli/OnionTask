@@ -13,3 +13,18 @@ C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Dom
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.genruntimeconfig.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ref\ProniaOnion202.Domain.dll
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.csproj.AssemblyReference.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\bin\Debug\net6.0\ProniaOnion202.Domain.deps.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\bin\Debug\net6.0\ProniaOnion202.Domain.runtimeconfig.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\bin\Debug\net6.0\ProniaOnion202.Domain.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\bin\Debug\net6.0\ProniaOnion202.Domain.pdb
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.csproj.AssemblyReference.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.AssemblyInfoInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.AssemblyInfo.cs
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.sourcelink.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\refint\ProniaOnion202.Domain.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.pdb
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ProniaOnion202.Domain.genruntimeconfig.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Core\ProniaOnion202.Domain\obj\Debug\net6.0\ref\ProniaOnion202.Domain.dll

@@ -12,3 +12,12 @@ C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOn
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.pdb
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.genruntimeconfig.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ref\ProniaOnion202.Infrastructure.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.AssemblyInfo.cs
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.sourcelink.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\refint\ProniaOnion202.Infrastructure.dll
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Infrastructure\obj\Debug\net6.0\ProniaOnion202.Infrastructure.pdb

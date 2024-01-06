@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7h+YvFymJHsaCoFYFK3wIHNXs6VzgoMg7IRIJY1swOe2r/7jK6zbuLNmQff+yyOCz6DtuwbVVZdPvIji6AXcwA==",
+  "dgSpecHash": "ajYEGzq5ylYQpIC1GSYv2wUP9y/5V3K3/+hk8X8KFaeq31GWoKruGLFnClKnY181q/BcnjmcOuVOvsJLoUm2XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Sheki Komp\\Desktop\\Code Acedemy\\OnionTask\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Persistence\\ProniaOnion202.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sheki Komp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

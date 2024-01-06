@@ -4,3 +4,9 @@ C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOn
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.AssemblyInfo.cs
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.csproj.CoreCompileInputs.cache
 C:\Users\Sheki Komp\Desktop\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.sourcelink.json
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.csproj.AssemblyReference.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.AssemblyInfoInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.AssemblyInfo.cs
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Sheki Komp\Desktop\Code Acedemy\OnionTask\ProniaOnion202\src\Infrastructure\ProniaOnion202.Persistence\obj\Debug\net6.0\ProniaOnion202.Persistence.sourcelink.json
